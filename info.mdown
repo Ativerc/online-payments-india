@@ -131,13 +131,18 @@ In case of IMPS, **the cost is left to the discretion of the bank**. For transfe
    * Twitter Accounts: https://twitter.com/Paytm , https://twitter.com/PaytmCare
 
 
-#### 3.1.3 **Service Charges**
+#### 3.1.3 Service Charges
 
   * There's no charges for PayTM wallet-to-PayTM wallet transactions. 
   * Only charges are **when you transfer money from your PayTM wallet back to your bank account**. This charge is at 4% for accounts which haven't done PayTM-KYC verification. 
   * For PayTM-KYC verified accounts this charge is at 1%.    
   * With an upgraded wallet you can store upto Rs. 1 Lakh at any point of time and there is no limit on how much you can spend in a given month.
 
+#### 3.1.4 Where is PayTM accepted: 
+  * Online: List of online stores which accept PayTM is here http://www.fonearena.com/blog/203368/list-of-online-stores-that-accept-paytm-wallet-for-payment.html
+  * Offline: Many to count. To get your favorite offline store to accept PayTM see this http://paywithpaytm.com/contactus/in-store-payments/ and this https://twitter.com/Soniadhawn/status/797429481073831937
+  
+  
 ### 3.2 Freecharge  
 
    _Freecharge devs, Fix your docs. its a User Experience disaster. Many clicks, Many pages, Less info._
