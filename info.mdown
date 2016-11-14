@@ -121,7 +121,7 @@ In case of IMPS, **the cost is left to the discretion of the bank**. For transfe
 ### 3.1 PayTM
 
 #### 3.1.1 Installation Link  
-   Google Play Store: https://play.google.com/store/apps/details?id=net.one97.paytm
+   Google Play Store: https://play.google.com/store/apps/details?id=net.one97.paytm  
    iOS Store:
 
 #### 3.1.2 Website and Helpline
@@ -148,7 +148,7 @@ In case of IMPS, **the cost is left to the discretion of the bank**. For transfe
    _Freecharge devs, Fix your docs. its a User Experience disaster. Many clicks, Many pages, Less info._
 
 #### 3.2.1 Installation Link  
-   Google Play Store: https://play.google.com/store/apps/details?id=com.freecharge.android
+   Google Play Store: https://play.google.com/store/apps/details?id=com.freecharge.android  
    iOS Store:
 
 #### 3.2.2 Website and Helpline
@@ -159,7 +159,7 @@ In case of IMPS, **the cost is left to the discretion of the bank**. For transfe
 
 ### 3.3 Mobikwik
 
-## 4. National Unified USSD Platform (NUUP) *99#
+## 4. National Unified USSD Platform (NUUP) `*99#`
 
  No Internet necessary. 
 
