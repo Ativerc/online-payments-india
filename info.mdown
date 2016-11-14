@@ -35,78 +35,79 @@ While this post can't alleviate the problems being faced by people in rural area
 1. **Electronic Fund Transfer**
 
 
-***TL;DR***
+   ***TL;DR***
 
-RTGS and NEFT are not built for daily transactions because they are not real-time. Use UPI and IMPS for instant transactions, if available. 
+  RTGS and NEFT are not built for daily transactions because they are not real-time. Use UPI and IMPS for instant transactions, if available. 
 
 
  1.1 **Unified Payments Interface (UPI)**
-Unified Payments Interface (UPI) is a system that powers multiple bank accounts(of participating banks),several banking services features like fund transfer (P2P) ,merchant payments in single mobile application.
-Unified Payment Interface (UPI) has built on the Immediate Payment Service(IMPS) platform.
+    Unified Payments Interface (UPI) is a system that powers multiple bank accounts(of participating banks),several banking services features like fund transfer (P2P) ,merchant payments in single mobile application.
+    Unified Payment Interface (UPI) has built on the Immediate Payment Service(IMPS) platform.
 
- 1.2.1 **How to Register**
+  1.1.1 **How to Register**
 
- Registration in UPI enabled application:
+   Registration in UPI enabled application:
 
-   Steps for Registration:
+    Steps for Registration:
 
-    1.User downloads the UPI application from the App Store / Banks website
+      1.User downloads the UPI application from the App Store / Banks website
    
-    2.User creates his/ her profile by entering details like name, virtual id (payment address), password etc.
+      2.User creates his/ her profile by entering details like name, virtual id (payment address), password etc.
    
-    3.User goes to “Add/Link/Manage Bank Account” option and links the bank and account number with the virtual id
-   Generating M – PIN:
+      3.User goes to “Add/Link/Manage Bank Account” option and links the bank and account number with the virtual id
+    Generating M – PIN:
 
-    1.User selects the bank account from which he/she wants to initiate the transaction
-    2.User clicks on requried option
+      1.User selects the bank account from which he/she wants to initiate the transaction
+      2.User clicks on requried option
 
- 1.2.2 **Service Charges**
- UPI is charged at Rs.0.50 per transaction. 
+  1.1.2 **Service Charges**
+    
+    UPI is charged at Rs.0.50 per transaction. 
 
-  source: http://www.profitbooks.net/upi-unified-payment-interface/
+    source: http://www.profitbooks.net/upi-unified-payment-interface/
 
  1.2 **Immediate Payment Service(IMPS)**
 
- IMPS is a **real-time** electronic funds transfer service. Unlike the NEFT and RTGS, the service is available 24/7 throughout the year including bank holidays. This is perfect for daily transactions, of you can pay some money for transactions.
+    IMPS is a **real-time** electronic funds transfer service. Unlike the NEFT and RTGS, the service is available 24/7 throughout the year including bank holidays. This is perfect for daily transactions, of you can pay some money for transactions.
 
- 1.2.1 **Service Charges**
+    1.2.1 **Service Charges**
 
- In case of IMPS, **the cost is left to the discretion of the bank**. For transferring money via IMPS, generally banks charge Rs.5 for amounts up to Rs.1 lakh and Rs.15 for amounts above Rs.1 lakh and up to Rs.2 lakh. This is quite high for daily transactions.
+        In case of IMPS, **the cost is left to the discretion of the bank**. For transferring money via IMPS, generally banks charge Rs.5 for amounts up to Rs.1 lakh and Rs.15 for amounts above Rs.1 lakh and up to Rs.2 lakh. This is quite high for daily transactions.
 
- See: http://www.livemint.com/Money/htpDqZMadqKkbhKv4CylCP/One-Minute-Guide--Fund-transfer-charges.html
+        See: http://www.livemint.com/Money/htpDqZMadqKkbhKv4CylCP/One-Minute-Guide--Fund-transfer-charges.html
 
 
  1.3 **National Electronic Funds Transfer (NEFT)**
 
- **National Electronic Funds Transfer** is built for money transfers but they are not instant. So its useless for Merchant/Consumer transactions and Consumer/Consumer transactions which need to be instant and Real-time. Its built for **funds transfer** NOT transactions. The transfers happen in batches.
+    **National Electronic Funds Transfer** is built for money transfers but they are not instant. So its useless for Merchant/Consumer transactions and Consumer/Consumer transactions which need to be instant and Real-time. Its built for **funds transfer** NOT transactions. The transfers happen in batches.
 
 
- **Service charges for NEFT:**
+    1.3.1 **Service charges for NEFT:**
 
- The structure of charges that can be
+        The structure of charges that can be
 
- a) Inward transactions at destination bank branches (for credit to beneficiary accounts):  
+          a) Inward transactions at destination bank branches (for credit to beneficiary accounts):  
 
-   Free, no charges to be collected from beneficiaries  
+              Free, no charges to be collected from beneficiaries  
 
- b) Outward transactions at originating bank branches (charges for the remitter):   
+          b) Outward transactions at originating bank branches (charges for the remitter):   
 
- For transactions up to ₹10,000 (not exceeding) : ₹2.50 (+ Service Tax)  
- For transactions above ₹10,000 up to ₹1 lakh (not exceeding) : ₹5 (+ Service Tax)  
- For transactions above ₹1 lakh and up to ₹2 lakhs (not exceeding) : ₹15 (+ Service Tax)  
- For transactions above ₹2 lakhs : ₹25 (+ Service Tax)  
+            For transactions up to ₹10,000 (not exceeding) : ₹2.50 (+ Service Tax)  
+            For transactions above ₹10,000 up to ₹1 lakh (not exceeding) : ₹5 (+ Service Tax)  
+            For transactions above ₹1 lakh and up to ₹2 lakhs (not exceeding) : ₹15 (+ Service Tax)  
+            For transactions above ₹2 lakhs : ₹25 (+ Service Tax)  
 
 
- **Settlement Timings for NEFT**
+    1.3.2 **Settlement Timings for NEFT**
 
- Currently, NEFT operates in hourly batches:
+        Currently, NEFT operates in hourly batches:
 
- * there are twelve settlements from 8:00 AM to 7:00 PM on Weekdays  
- * and six settlements from 8 am to 1 pm on Saturdays.
+          * there are twelve settlements from 8:00 AM to 7:00 PM on Weekdays  
+          * and six settlements from 8 am to 1 pm on Saturdays.
 
- Any transaction initiated after a designated settlement time would have to wait till the next designated settlement time. As of 2013, all transactions initiated before 5 PM will be settled on same day. **No transactions are settled on weekly holidays and public holidays.**
+          Any transaction initiated after a designated settlement time would have to wait till the next designated settlement time. As of 2013, all transactions initiated before 5 PM will be settled on same day. **No transactions are settled on weekly holidays and public holidays.**
 
- Transaction Timings for NEFT, Monday to Saturday (Except 2nd and 4th Saturday) is 8:00 AM to 6:30 PM.
+          Transaction Timings for NEFT, Monday to Saturday (Except 2nd and 4th Saturday) is 8:00 AM to 6:30 PM.
 
 
  1.4 **Real Time Gross Settlement (RTGS)**
@@ -119,7 +120,7 @@ Unified Payment Interface (UPI) has built on the Immediate Payment Service(IMPS)
 
 3. e-Wallets  
 
-  With a typical wallet you cannot add more than Rs. 10,000/- in a calendar month. This is as per RBI regulations. 
+      With a typical wallet you cannot add more than Rs. 10,000/- in a calendar month. This is as per RBI regulations. 
 
 
   3.1 **PayTM**
@@ -136,31 +137,31 @@ Unified Payment Interface (UPI) has built on the Immediate Payment Service(IMPS)
 
     3.1.3 **Service Charges**
 
-    * There's no charges for PayTM wallet-to-PayTM wallet transactions. 
-    * Only charges are **when you transfer money from your PayTM wallet back to your bank account**. This charge is at 4% for accounts which haven't done PayTM-KYC verification. 
-    * For PayTM-KYC verified accounts this charge is at 1%.    
-    * With an upgraded wallet you can store upto Rs. 1 Lakh at any point of time and there is no limit on how much you can spend in a given month.
+        * There's no charges for PayTM wallet-to-PayTM wallet transactions. 
+        * Only charges are **when you transfer money from your PayTM wallet back to your bank account**. This charge is at 4% for accounts which haven't done PayTM-KYC verification. 
+        * For PayTM-KYC verified accounts this charge is at 1%.    
+        * With an upgraded wallet you can store upto Rs. 1 Lakh at any point of time and there is no limit on how much you can spend in a given month.
 
   3.2 Freecharge  
 
-  Fix your docs. its a User Experience disaster. Many clicks, Many pages, Less info.
+      _Freecharge devs, Fix your docs. its a User Experience disaster. Many clicks, Many pages, Less info.
 
   3.3 Mobikwik
 
-4. National Unified USSD Platform (NUUP) *99#
+4. **National Unified USSD Platform (NUUP) *99#**
 
-  No Internet necessary. 
+      No Internet necessary. 
 
-  Uses IMPS so is instant but there's an additional cost for using the NUUP service collected by the telecom operator(Rs.1.50 max as mandated by TRAI) on top of the IMPS charges by the bank. So its, IMPS charges + NUUP charges.... It can easily be Rs.6 or more per transaction 
+      Uses IMPS so is instant but there's an additional cost for using the NUUP service collected by the telecom operator(Rs.1.50 max as mandated by TRAI) on top of the IMPS charges by the bank. So its, IMPS charges + NUUP charges.... It can easily be Rs.6 or more per transaction 
 
-  http://www.npci.org.in/documents/FAQs-NUUP.pdf
+      http://www.npci.org.in/documents/FAQs-NUUP.pdf
 
-5. ATM Finder with Operational Status
+5. **ATM Finder with Operational Status**
 
-Need a good tracker. There are some trackers but all of them are open for abuse by users/views
+      Need a good tracker. There are some trackers but all of them are open for abuse by users/views
 
 6. Tax Information for small and big merchants.
 
-Some small-time merchants have been in business for 2 decades or more. But they have never registered their shops anywhere. They think even if they don't earn enough to pay taxes every year, if their businesses are listed anywhere and are trackable they have to pay bribe to ITax Dept or some Government official. So this section is for tax education of small and medium sized merchants. 
+      Some small-time merchants have been in business for 2 decades or more. But they have never registered their shops anywhere. They think even if they don't earn enough to pay taxes every year, if their businesses are listed anywhere and are trackable they have to pay bribe to ITax Dept or some Government official. So this section is for tax education of small and medium sized merchants. 
 
-If anyone could add any tax info, that would be great. Any details at all would help.
+      If anyone could add any tax info, that would be great. Any details at all would help.
